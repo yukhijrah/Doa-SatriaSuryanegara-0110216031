@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kumpulan Doa</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_doa">Doa</string>
+    <string name="menu_profile">Profile</string>
+    <string name="salam">Assalamualaikum</string>
+    <string name="hai">Hai, Satria Suryanegara</string>
+    <string name="jadwal">Jadwal Sholat Hari Ini</string>
+    <string name="nama">Satria Suryanegara</string>
+    <string name="ttl">Bogor, 24 June 1998</string>
+    <string name="prodi">Teknik Informatika</string>
+    <string name="nim">0110216031</string>
+    <string name="kampus">STT Terpadu Nurul Fikri</string>
+    <string name="juduldoa">judul doa</string>
+    <string name="artidoa">Arti Doa</string>
+    <string name="waktusholat">Waktu Shalat</string>
+    <string name="jamsholat">Jam Sholat</string>
+    <string name="ayatdoa">Ayat</string>
+</resources>
